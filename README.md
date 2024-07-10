@@ -9,9 +9,6 @@ A simple web-based to-do list application where you can manage your tasks effici
   - [Features](#features)
   - [Technologies Used](#technologies-used)
   - [How to Use](#how-to-use)
-  - [Project Structure](#project-structure)
-  - [Contributing](#contributing)
-  - [License](#license)
 
 ## Description
 
